@@ -1,0 +1,24 @@
+.MuiTableContainer-root {
+    width: 756px!important;
+    padding-left: 376px;
+    padding-right: 376px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.dateStyle{
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+    background-color: cadetblue;
+}
+
+.ActivityTableStyle{
+    height: 300px;
+    width:300px;
+}
